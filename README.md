@@ -24,4 +24,6 @@ Please Fallow the schematic to correctly wire everything together, then you will
 
 4. **luma.led_matrix library** - This library is used to control the MAX7219 8x8 Matrix Display. You can install it using `pip3 install luma.led_matrix`.
 
-5. **SPI Interface on RPI** - Please ensure that the SPI interface is turned on in the raspberry pi configuration, either through the terminal or GUI. 
+5. **SPI Interface on RPI** - Please ensure that the SPI interface is turned on in the raspberry pi configuration, either through the terminal or GUI.
+
+6. **Enjoy** - If you fallow the instructions upbove you shoudl be able to download the code and run it as normal, just be sure to fallow the schematic to wire everything correctly. 
