@@ -15,7 +15,6 @@ Please Fallow the schematic to correctly wire everything together, then you will
 
 2. **Install ir-keytable** to receive IR scancodes via the sensor:
     - Install the ir-keytable package and temporarily enable all protocols: `sudo apt-get install ir-keytable` and `sudo ir-keytable -p all`
-    - Note that the last command will not persist a reboot and is for testing only (we’ll take care of this later!)
 
 3. **Install evdev**, providing a Python interface to read input events generated when IR signals are received:
     - You may need to install pip for Python 3 if not already present: `sudo apt-get install python3-pip`
