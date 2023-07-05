@@ -26,4 +26,4 @@ Please Fallow the schematic to correctly wire everything together, then you will
 
 5. **SPI Interface on RPI** - Please ensure that the SPI interface is turned on in the raspberry pi configuration, either through the terminal or GUI.
 
-6. **Enjoy** - If you fallow the instructions upbove you shoudl be able to download the code and run it as normal, just be sure to fallow the schematic to wire everything correctly. 
+6. **Enjoy** - If you fallow the instructions upbove you should be able to download the code and run it as normal, just be sure to fallow the schematic to wire everything correctly. 
